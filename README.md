@@ -1,4 +1,3 @@
-algoritmia
-==========
+Prueba de github.
 
-Códigos de algoritmia.
+Esto es una prueba.
